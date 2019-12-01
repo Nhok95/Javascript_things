@@ -1,0 +1,10 @@
+/*
+// TO DO
+
+start: Pone en marcha el reloj
+pause: Pausa el reloj
+resume: Continua (pero no empieza)
+stop: Lo pone a cero y lo para
+invert: Invierte la cuenta. Si llega a 0 stop
+
+*/ 
